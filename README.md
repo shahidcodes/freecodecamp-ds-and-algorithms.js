@@ -4,9 +4,9 @@
 ### 2. Queues
 ### 3. Priority Queues
 ### 4. Binary Search Tree
-
- 1. ##
-
+### 5. Binary Search Tree : Traversal
+### 6. Hash Tables
+### 6. Linked List
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzg0NDU2N119
+eyJoaXN0b3J5IjpbLTgzMDU0NDk3M119
 -->
