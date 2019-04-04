@@ -121,6 +121,7 @@ console.log("Size", pq1.size());
 console.log("Front", pq1.peek());
 console.log(pq1);
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcwNDQ2NjVdfQ==
+eyJoaXN0b3J5IjpbLTk3OTQxNTI0M119
 -->
