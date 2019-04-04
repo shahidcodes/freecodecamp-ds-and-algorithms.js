@@ -13,7 +13,7 @@ ES6 sets does not have all the methods for the set. So we can implement our own.
  8. subset()  
 
 but es6 has only 
-
+[code on @Codepen](https://codepen.io/shahidcodes/pen/rbxvVg)
 ```javascript
 // ES6 Set
 const set = new Set()
@@ -117,5 +117,5 @@ console.log("diff mSet and mSet3", mSet.difference(mSet3).values())
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzgxNjEyNiwxOTQ1NjI1ODAxXX0=
+eyJoaXN0b3J5IjpbLTE2MjEyNjU4NTgsMTk0NTYyNTgwMV19
 -->
