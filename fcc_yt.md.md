@@ -4,8 +4,8 @@
 ES6 sets does not have all the methods for the set. So we can implement our own.
 **Set methods -**
 
- 1. Push, Pop, Peek
-
+ 1. Add, Remove, Peek
+ 2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMTE0NjY4LC0yMDM5NDcyMDA4XX0=
+eyJoaXN0b3J5IjpbMTcyMDAxNTg5MCwtMjAzOTQ3MjAwOF19
 -->
