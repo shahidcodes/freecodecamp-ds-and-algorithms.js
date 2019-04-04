@@ -8,6 +8,8 @@ above both can be then has two types based on it's behaviour -
 1. Fifo queue- First in first out queue
 2. Lifo queue - Last in first out 
 
+[**Live Code @Codepen**](https://codepen.io/shahidcodes/pen/NmxOox)
+
 ## Implementation
 ### Basic Queue
 ```javascript
@@ -123,5 +125,5 @@ console.log(pq1);
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTQxNTI0M119
+eyJoaXN0b3J5IjpbMTA3MDAwMzI0Ml19
 -->
