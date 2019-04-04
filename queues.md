@@ -3,7 +3,7 @@ Types of queues -
 1. Basic Queue
 2. Priority Queue   
 
-above both can be then has two types based on it's behaviour - 
+above both can be then have two types based on it's behaviour - 
 
 1. Fifo queue- First in first out queue
 2. Lifo queue - Last in first out 
