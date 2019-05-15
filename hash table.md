@@ -12,7 +12,6 @@ function hash(string, max) {
 `max` arg in function defines how long your data can grow. For example if you have 100 different types of product then keeping `max=100` would be perfect and will avoide collision.
 ## Implementation
 ```javascript
-console.clear();
 function hash(string, max) {
   let hash = 0;
   for(let i=0; i<string.length;i++){
@@ -68,6 +67,8 @@ console.log(ht.get("shahid"))
 console.log(ht.get("213"))
 
 ```
+[
+Run@Cod](https://codepen.io/shahidcodes/pen/JqWWgd?editors=0010)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDc5ODY4Ml19
+eyJoaXN0b3J5IjpbMTUzMzY2NDI3M119
 -->
