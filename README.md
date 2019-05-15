@@ -5,8 +5,8 @@
 ### 3. [Priority Queues](/queues.md#priority-queues)
 ### 4. [Binary Search Tree](binary%20search%20tree.md#basic-bst)
 ### 5. [Binary Search Tree : Traversal](binary%20search%20tree.md#basic-bst)
-### 6. [Hash Tables](/hash%20table)
+### 6. [Hash Tables](/hash%20table.md)
 ### 6. Linked List
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk0MjIzNjFdfQ==
+eyJoaXN0b3J5IjpbMTU0MTY3MzM1Ml19
 -->
