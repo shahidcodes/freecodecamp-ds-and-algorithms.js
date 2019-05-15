@@ -1,5 +1,6 @@
 ## Basic algorithms implementation javascript
 [Video Link](https://www.youtube.com/watch?v=t2CEgPsws3U) 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/t2CEgPsws3U/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 ### 1. [Sets](/sets.md)
 ### 2. [Queues](/queues.md)
 ### 3. [Priority Queues](/queues.md#priority-queues)
@@ -8,5 +9,5 @@
 ### 6. [Hash Tables](/hash%20table.md)
 ### 6. Linked List
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTY3MzM1Ml19
+eyJoaXN0b3J5IjpbMjEyNzIyMjI3NF19
 -->
