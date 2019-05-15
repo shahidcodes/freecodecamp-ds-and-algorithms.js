@@ -1,4 +1,5 @@
 ## Basic algorithms implementation javascript
+### My attempt to implement basic algorithms and data structures in javascript
 [![Data structure and algorigthm freeCodeCamp](http://img.youtube.com/vi/t2CEgPsws3U/0.jpg)](http://www.youtube.com/watch?v=t2CEgPsws3U "DS&A")
 ### 1. [Sets](/sets.md)
 ### 2. [Queues](/queues.md)
@@ -8,5 +9,5 @@
 ### 6. [Hash Tables](/hash%20table.md)
 ### 6. Linked List
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODQ4MDA5Ml19
+eyJoaXN0b3J5IjpbMTMzNzcxOTkzLC00Mzg0ODAwOTJdfQ==
 -->
