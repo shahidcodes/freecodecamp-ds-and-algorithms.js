@@ -67,8 +67,7 @@ console.log(ht.get("shahid"))
 console.log(ht.get("213"))
 
 ```
-[
-Run@Cod](https://codepen.io/shahidcodes/pen/JqWWgd?editors=0010)
+[Run@Codepen](https://codepen.io/shahidcodes/pen/JqWWgd?editors=0010)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzY2NDI3M119
+eyJoaXN0b3J5IjpbLTg0Mzk3NzE2MV19
 -->
