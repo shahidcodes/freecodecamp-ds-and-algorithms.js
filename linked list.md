@@ -89,7 +89,7 @@ console.log(list.size())
 console.log("contains 3", list.contains(3))
 console.log(list.toArray())
 ```
-
+[l](https://codepen.io/shahidcodes/pen/arWydj?editors=0010)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Njg0MjkxOF19
+eyJoaXN0b3J5IjpbLTIxMTMwMDUxNjldfQ==
 -->
