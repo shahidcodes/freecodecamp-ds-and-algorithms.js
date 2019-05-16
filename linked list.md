@@ -3,13 +3,15 @@ Linked list a list like structure where each element typically called node store
 ![linked list image](https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist_insert_at_start.png)
 
 ## Complexities
-|Accessing an element| O |
+|Operation| BigOh |
 |--|--|
-|  |  |
+| Searching an Element| O(n) |
+| Accessing an element| O(n) |
+| Inserting an element | O(1) |
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg3MzU4ODRdfQ==
+eyJoaXN0b3J5IjpbOTg5MjY0NTE5XX0=
 -->
