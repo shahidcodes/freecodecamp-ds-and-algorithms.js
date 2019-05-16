@@ -4,6 +4,8 @@ Linked list a list like structure where each element typically called node store
 
 ## Complexities
 *There is no worst case in linked list*
+
+
 |Operation| BigOh |
 |--|--|
 | Searching an Element| O(n) |
@@ -91,5 +93,5 @@ console.log(list.toArray())
 ```
 [code@codepen](https://codepen.io/shahidcodes/pen/arWydj?editors=0010)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM1MjA5MjgsNjA4MjE4Nzk0XX0=
+eyJoaXN0b3J5IjpbLTg2ODY5MzcwMCw2MDgyMTg3OTRdfQ==
 -->
