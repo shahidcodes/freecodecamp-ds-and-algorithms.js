@@ -1,5 +1,5 @@
 # Linked List (Singly linked)
-Linked list a list like structure where each element typically called node stored two types of data, one is the value and other is ref of next node.
+Linked list a list like structure where each element typically called node stores two types of data, one is the value and other is ref of next node.
 ![linked list image](https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist_insert_at_start.png)
 
 ## Complexities
@@ -91,5 +91,5 @@ console.log(list.toArray())
 ```
 [code@codepen](https://codepen.io/shahidcodes/pen/arWydj?editors=0010)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAzMDEwMzksNjA4MjE4Nzk0XX0=
+eyJoaXN0b3J5IjpbLTE5NDM1MjA5MjgsNjA4MjE4Nzk0XX0=
 -->
